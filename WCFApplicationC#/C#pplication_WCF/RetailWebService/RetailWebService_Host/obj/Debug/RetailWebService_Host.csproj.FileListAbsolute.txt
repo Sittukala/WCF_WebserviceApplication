@@ -1,0 +1,13 @@
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\bin\Debug\RetailWebService_Host.exe.config
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\bin\Debug\RetailWebService_Host.exe
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\bin\Debug\RetailWebService_Host.pdb
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\obj\Debug\RetailWebService_Host.exe
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\obj\Debug\RetailWebService_Host.pdb
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\obj\Debug\RetailWebService_Host.csprojResolveAssemblyReference.cache
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\bin\Debug\RetailWebService_Host.exe.config
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\bin\Debug\RetailWebService_Host.exe
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\bin\Debug\RetailWebService_Host.pdb
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\obj\Debug\RetailWebService_Host.csprojAssemblyReference.cache
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\obj\Debug\RetailWebService_Host.csproj.CoreCompileInputs.cache
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\obj\Debug\RetailWebService_Host.exe
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService_Host\obj\Debug\RetailWebService_Host.pdb

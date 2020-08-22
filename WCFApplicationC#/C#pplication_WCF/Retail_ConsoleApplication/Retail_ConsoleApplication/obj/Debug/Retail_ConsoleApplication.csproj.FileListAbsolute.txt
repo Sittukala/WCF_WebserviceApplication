@@ -1,0 +1,14 @@
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\bin\Debug\Retail_ConsoleApplication.exe.config
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\bin\Debug\Retail_ConsoleApplication.exe
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\bin\Debug\Retail_ConsoleApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\obj\Debug\Retail_ConsoleApplication.exe
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\obj\Debug\Retail_ConsoleApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\obj\Debug\Retail_ConsoleApplication.csprojAssemblyReference.cache
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\obj\Debug\Retail_ConsoleApplication.csproj.CoreCompileInputs.cache
+Z:\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\bin\Debug\Retail_ConsoleApplication.exe.config
+Z:\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\bin\Debug\Retail_ConsoleApplication.exe
+Z:\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\bin\Debug\Retail_ConsoleApplication.pdb
+Z:\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\obj\Debug\Retail_ConsoleApplication.csprojAssemblyReference.cache
+Z:\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\obj\Debug\Retail_ConsoleApplication.csproj.CoreCompileInputs.cache
+Z:\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\obj\Debug\Retail_ConsoleApplication.exe
+Z:\My Documents\Visual Studio 2019\Backup Files\Retail_ConsoleApplication\Retail_ConsoleApplication\obj\Debug\Retail_ConsoleApplication.pdb

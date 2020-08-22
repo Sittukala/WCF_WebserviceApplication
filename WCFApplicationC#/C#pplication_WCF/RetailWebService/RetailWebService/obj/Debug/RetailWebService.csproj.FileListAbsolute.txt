@@ -1,0 +1,25 @@
+C:\Users\ssa46\source\repos\RetailWebService\RetailWebService\obj\Debug\RetailWebService.csprojAssemblyReference.cache
+C:\Users\ssa46\source\repos\RetailWebService\RetailWebService\obj\Debug\RetailWebService.csproj.CoreCompileInputs.cache
+C:\Users\ssa46\source\repos\RetailWebService\RetailWebService\bin\RetailWebService.dll.config
+C:\Users\ssa46\source\repos\RetailWebService\RetailWebService\bin\RetailWebService.dll
+C:\Users\ssa46\source\repos\RetailWebService\RetailWebService\bin\RetailWebService.pdb
+C:\Users\ssa46\source\repos\RetailWebService\RetailWebService\bin\MySql.Data.dll
+C:\Users\ssa46\source\repos\RetailWebService\RetailWebService\obj\Debug\RetailWebService.csproj.CopyComplete
+C:\Users\ssa46\source\repos\RetailWebService\RetailWebService\obj\Debug\RetailWebService.dll
+C:\Users\ssa46\source\repos\RetailWebService\RetailWebService\obj\Debug\RetailWebService.pdb
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\bin\RetailWebService.dll.config
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\bin\RetailWebService.dll
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\bin\RetailWebService.pdb
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\bin\MySql.Data.dll
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\obj\Debug\RetailWebService.dll
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\obj\Debug\RetailWebService.pdb
+\\uol.le.ac.uk\root\student\home\s\ssa46\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\obj\Debug\RetailWebService.csprojResolveAssemblyReference.cache
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\bin\RetailWebService.dll.config
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\bin\RetailWebService.dll
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\bin\RetailWebService.pdb
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\bin\MySql.Data.dll
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\obj\Debug\RetailWebService.csprojAssemblyReference.cache
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\obj\Debug\RetailWebService.csproj.CoreCompileInputs.cache
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\obj\Debug\RetailWebService.csproj.CopyComplete
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\obj\Debug\RetailWebService.dll
+Z:\My Documents\Visual Studio 2019\Backup Files\RetailWebService\RetailWebService\obj\Debug\RetailWebService.pdb
